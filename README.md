@@ -3,5 +3,5 @@ Product Sales Analysis Dashboard 💰📅; Data Visualization 📊📉 - Power B
 
 <img src="https://github.com/AyomiUpeksha/Product-Sales-Analysis-Dashboard/blob/main/assets/asset_img_1.png" alt="Image Description">
 
- <div align="center">Don't forget to leave a star ⭐️</div>
+ <div align="center">⭐️</div>
 
